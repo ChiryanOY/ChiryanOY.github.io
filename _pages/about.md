@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am in the second year of my PhD at the [Shanghai Innovation Institute](https://www.sii.edu.cn/), supervised by Prof. Xiangyun Zhang at [the School of Mathematical Sciences](https://math.ecnu.edu.cn/), [East China Normal University](https://www.ecnu.edu.cn/). I completed my academic master’s degree and undergraduate studies in Applied Statistics. I am a freshman focusing on the diffusion generative model, controllable video synthesis, and computer vision.
+I am in the second year of my PhD at the [Shanghai Innovation Institute](https://www.sii.edu.cn/), co-supervised by Prof. Xiangyun Zhang at [the School of Mathematical Sciences](https://math.ecnu.edu.cn/), [East China Normal University](https://www.ecnu.edu.cn/) and [Prof. Junchi Yan](https://thinklab.sjtu.edu.cn/) at Shanghai Jiao Tong University. I completed my academic master’s degree and undergraduate studies in Applied Statistics. I am a freshman focusing on the diffusion generative model, controllable video synthesis, and computer vision.
 
 🔥 **News** 
 ======
