@@ -18,6 +18,5 @@ package-lock.json
 
 # Ignore folders related to IDEs
 .vscode/
-photo.jpg
 resume_en.tex
 resume_zh.tex
