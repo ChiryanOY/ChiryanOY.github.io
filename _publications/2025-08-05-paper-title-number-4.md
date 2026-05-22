@@ -5,5 +5,7 @@ category: manuscripts
 permalink: /publication/2025-08-05-paper-title-number-4
 date: 2025-08-05
 venue: 'Computational Biology and Chemistry '
+selected: true
+citation: 'Zhiyuan Ouyang. "A novel network for resolving subjective masking differences and accurate thyroid nodule diagnosis." Computational Biology and Chemistry, 2025.'
 ---
-APSNet offers a remarkable stride forward in thyroid nodule diagnosis by effectively addressing subjectivity and amplifying feature extraction capabilities. It proffers a more accurate and dependable diagnostic tool to clinicians.
+This work proposes a neural architecture for reducing subjective masking discrepancies in thyroid nodule analysis and improving diagnostic accuracy. It focuses on robust feature extraction and clinically reliable prediction performance for medical image understanding.

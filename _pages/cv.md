@@ -9,56 +9,48 @@ redirect_from:
 
 {% include base_path %}
 
+Summary
+======
+My research centers on **generative models**, bridging rigorous theoretical foundations with practical AI systems. I study generalization, interpretability, and low-dimensional structure in generative modeling to improve generation efficiency, controllability, and safety. I also work on large-scale AI engineering, including Slurm scheduling and DDP distributed training, and maintain strong interests in **Web3**, **prediction markets**, and **on-chain quantitative trading**.
+
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* **East China Normal University / Shanghai Institute of Intelligence**, Ph.D. student in Computational Mathematics, 2024-present
+* **Advisors:** [Assoc. Prof. Xiangyun Zhang](https://math.ecnu.edu.cn/~xyzhang/) and [Prof. Junchi Yan](https://soai.sjtu.edu.cn/cn/facultydetails/zzjs/yanjunchi)
+* **Honors:** National Scholarship for PhD Students (Top 1.5%)
+* **Research Interests:** Generative Models, Prediction Markets, Web3 Quant Trading, Time Series Analysis
 
-Work experience
+Selected Publications
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* **Zhiyuan Ouyang** (First Author). [Primal-Spectral Generative Modeling: Fast Analytical Generation via Pseudoinverse Levy Inversion]({{ base_path }}/publication/2026-01-01-primal-spectral-generative-modeling). *ICML 2026 (CCF-A)*.
+* **Zhiyuan Ouyang** (First Author). [A novel network for resolving subjective masking differences and accurate thyroid nodule diagnosis]({{ base_path }}/publication/2025-08-05-paper-title-number-4). *Computational Biology and Chemistry*.
+* **Zhiyuan Ouyang** (First Author). [Model detection for grey forecasting model with polynomial term]({{ base_path }}/publication/2024-01-03-paper-title-number-2). *Communications in Statistics - Simulation and Computation*.
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+Projects and Experience
+======
+* **MimicPolymarket: On-chain Quant Router** (Independent Open Source), Feb 2026-present
+  * Built a production-oriented quantitative execution engine with concurrent multi-wallet routing for Polymarket.
+  * Integrated Relayer routing, POLY_1271 signatures, and Account Abstraction based deposit-wallet order flow.
+  * Designed position sizing, exposure control, scaling-out, and MongoDB-backed state persistence for low-latency trading.
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* **Generative Modeling** (Outstanding Ph.D. Project), Nov 2025-May 2026
+  * Proposed the **PriSpecNet** architecture and a single-step Pseudoinverse Levy Inversion solver.
+  * Unified generation and forecasting in time series and demonstrated strong gains on Sines, Solar, ETTh, and Stock datasets.
+  * Achieved FID 1.66 on ImageNet 256x256 with only 26 Gflops and around 170x lower computation than 25-NFE DPM-Solver++.
 
-Publications
+* **Baizhi Xunlian Technology Co., Ltd.**, Head of AI Department, Sep 2023-Sep 2024
+  * Led visual generation pipeline development with ComfyUI and Stable Diffusion.
+  * Built on-premises enterprise AI deployment solutions and optimized inference for heterogeneous platforms.
+  * Established engineering standards, technical training processes, and delivery workflows for cross-functional teams.
+
+Technical Skills
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
+* **Programming:** Python, TypeScript, Rust, C++
+* **Generative AI:** PyTorch, JAX, Diffusers, Stable Diffusion, ComfyUI
+* **Systems:** Slurm, DDP distributed training, TensorBoard, Docker
+* **Web3 / Quant:** Ethers.js, Viem, Polymarket CLOB SDK, MongoDB
+* **Engineering:** Risk-control state machines, test-driven development with Jest
+
+Academic Services
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Reviewer: BSPC, JIFS
