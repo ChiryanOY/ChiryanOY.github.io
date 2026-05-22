@@ -17,15 +17,18 @@ Beyond research, I work comfortably across the AI engineering stack, including S
 - 2026.06: Open-sourced **MimicPolymarket**, an on-chain quantitative execution router for Polymarket.
 - 2026.05: First-authored paper **Primal-Spectral Generative Modeling: Fast Analytical Generation via Pseudoinverse Levy Inversion** accepted in **ICML 2026**.
 - 2026.03: Awarded the **National Scholarship for PhD Students**.
-- 2025.08: First-authored paper published in **Computational Biology and Chemistry**.
-- 2024.01: First-authored paper published in **Communications in Statistics - Simulation and Computation**.
-
 **Research Interests**
 ======
 - Generative models and stochastic interpolation
 - Efficient generation, controllability, and safety
 - Time series generation and forecasting
 - Prediction markets, Web3, and on-chain quantitative trading
+
+**Selected Publications**
+======
+- [Primal-Spectral Generative Modeling: Fast Analytical Generation via Pseudoinverse Levy Inversion](https://icml.cc/virtual/2026/poster/66180). This work transforms probability distributions into continuous spectral representations, introduces **PriSpecNet** with a 1-NFE PiLI solver, and achieves strong gains in both time-series modeling and ImageNet generation with substantially lower computation.
+- [A novel network for resolving subjective masking differences and accurate thyroid nodule diagnosis](https://doi.org/10.1016/j.compbiolchem.2025.108572). This paper develops a network for reducing subjective masking differences in thyroid ultrasound analysis and improving diagnostic accuracy through more robust feature extraction.
+- [Model detection for grey forecasting model with polynomial term](https://doi.org/10.1080/03610918.2023.2300362). This paper studies grey forecasting models with polynomial terms, proposes a method to identify the significant orders, and validates the approach through simulations and a health expenditure forecasting case study.
 
 **Selected Experience**
 ======

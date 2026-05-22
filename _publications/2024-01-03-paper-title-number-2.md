@@ -6,6 +6,8 @@ permalink: /publication/2024-01-03-paper-title-number-2
 date: 2024-01-03
 venue: 'Communications in Statistics - Simulation and Computation'
 selected: true
+link: 'https://doi.org/10.1080/03610918.2023.2300362'
+paperurl: 'https://doi.org/10.1080/03610918.2023.2300362'
 citation: 'Zhiyuan Ouyang. "Model detection for grey forecasting model with polynomial term." Communications in Statistics - Simulation and Computation, 2024.'
 ---
-A grey forecasting model with polynomial term which includes the traditional grey model, the nonhomogeneous grey model $$(NGM(1,1,k))$$ and the integer order grey model with a time power term $$(GM(1,1,t^\alpha))$$ as special cases is considered. In grey forecasting model with polynomial term, we need to balance the costs and benefits of using higher order term. The novel method of model detection to identify which orders of polynomial term are significant is proposed. Simulation studies prove the proposed methods can identify the true model and have good prediction performances. An empirical example about annual health expenditure in China is used to illustrate the accuracy of proposed method.
+This paper studies grey forecasting models with polynomial terms, covering the traditional grey model, the nonhomogeneous grey model, and integer-order grey models with time-power terms as special cases. It proposes a model detection method for identifying which polynomial orders are truly significant, balancing predictive benefit against added model complexity. Simulations and an empirical study on annual health expenditure in China show that the method can recover the true model structure and deliver strong forecasting performance.

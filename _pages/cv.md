@@ -22,9 +22,9 @@ Education
 
 Selected Publications
 ======
-* **Zhiyuan Ouyang** (First Author). [Primal-Spectral Generative Modeling: Fast Analytical Generation via Pseudoinverse Levy Inversion]({{ base_path }}/publication/2026-01-01-primal-spectral-generative-modeling). *ICML 2026 (CCF-A)*.
-* **Zhiyuan Ouyang** (First Author). [A novel network for resolving subjective masking differences and accurate thyroid nodule diagnosis]({{ base_path }}/publication/2025-08-05-paper-title-number-4). *Computational Biology and Chemistry*.
-* **Zhiyuan Ouyang** (First Author). [Model detection for grey forecasting model with polynomial term]({{ base_path }}/publication/2024-01-03-paper-title-number-2). *Communications in Statistics - Simulation and Computation*.
+* **Zhiyuan Ouyang** (First Author). [Primal-Spectral Generative Modeling: Fast Analytical Generation via Pseudoinverse Levy Inversion](https://icml.cc/virtual/2026/poster/66180). *ICML 2026 (CCF-A)*.
+* **Zhiyuan Ouyang** (First Author). [A novel network for resolving subjective masking differences and accurate thyroid nodule diagnosis](https://doi.org/10.1016/j.compbiolchem.2025.108572). *Computational Biology and Chemistry*.
+* **Zhiyuan Ouyang** (First Author). [Model detection for grey forecasting model with polynomial term](https://doi.org/10.1080/03610918.2023.2300362). *Communications in Statistics - Simulation and Computation*.
 
 Projects and Experience
 ======
