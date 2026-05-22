@@ -14,8 +14,8 @@ Beyond research, I work comfortably across the AI engineering stack, including S
 **News**
 ======
 
-- 2026.06: Open-sourced **MimicPolymarket**, an on-chain quantitative execution router for Polymarket.
-- 2026.05: First-authored paper **Primal-Spectral Generative Modeling: Fast Analytical Generation via Pseudoinverse Levy Inversion** accepted in **ICML 2026**.
+- 2026.06: Open-sourced [**MimicPolymarket**](https://github.com/ChiryanOY/MimicPolymarket), an on-chain quantitative execution router for Polymarket.
+- 2026.05: First-authored paper [**Primal-Spectral Generative Modeling: Fast Analytical Generation via Pseudoinverse Levy Inversion**](https://icml.cc/virtual/2026/poster/66180) accepted in [**ICML 2026**](https://icml.cc/virtual/2026/poster/66180).
 - 2026.03: Awarded the **National Scholarship for PhD Students**.
 **Research Interests**
 ======
