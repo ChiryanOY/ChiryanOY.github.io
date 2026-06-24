@@ -24,14 +24,17 @@ redirect_from:
           <a href="https://thinklab.sjtu.edu.cn/">Prof. Junchi Yan</a>.
         </p>
         <p>
-          My research centers on generative models, with a focus on theoretical understanding,
-          generalization, and efficient controllable generation. In parallel, I work on large-scale
-          AI systems including Slurm scheduling, DDP training, and practical deployment of visual
-          generation pipelines.
+          My doctoral training is centered on generative models, computational mathematics, and AI
+          systems. During my Ph.D., I was awarded the National Scholarship for PhD Students in China.
+          I also received a provincial first prize in a collegiate C/C++ programming contest, which
+          reflects my long-standing interest in combining mathematical rigor with practical system building.
         </p>
         <p>
-          I am also interested in Web3 systems and prediction markets, especially on-chain execution
-          infrastructure for complex strategy deployment around Polymarket.
+          My research focuses on theoretical understanding, generalization, and efficient controllable
+          generation. In parallel, I work on large-scale AI systems including Slurm scheduling, DDP
+          training, and practical deployment of visual generation pipelines. I am also interested in
+          Web3 systems and prediction markets, especially on-chain execution infrastructure for complex
+          strategy deployment around Polymarket.
         </p>
         <p class="home-intro__highlight">
           I try to connect rigorous model understanding with practical engineering systems that are

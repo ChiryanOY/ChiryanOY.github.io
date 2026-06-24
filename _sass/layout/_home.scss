@@ -62,9 +62,10 @@
 
 .home-photo {
   width: 100%;
-  max-width: 240px;
-  height: auto;
-  border: 1px solid #d8d8d8;
+  max-width: 280px;
+  aspect-ratio: 1 / 1;
+  object-fit: cover;
+  border-radius: 50%;
 }
 
 .home-intro__highlight {
@@ -125,7 +126,7 @@
 
 @include breakpoint($medium) {
   .home-intro__grid {
-    grid-template-columns: minmax(0, 1.8fr) minmax(180px, 220px);
+    grid-template-columns: minmax(0, 1.9fr) minmax(220px, 280px);
   }
 
   .home-entry {
