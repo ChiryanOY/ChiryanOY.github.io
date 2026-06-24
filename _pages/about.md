@@ -48,9 +48,7 @@ redirect_from:
           /
           <a href="https://x.com/Chiryan_OY">X</a>
           /
-          <a href="{{ '/cv/' | relative_url }}">Web CV</a>
-          /
-          <a href="{{ '/resume_en.pdf' | relative_url }}" download>CV PDF</a>
+          <a href="{{ '/resume_en.pdf' | relative_url }}" download>CV</a>
         </p>
       </div>
       <div class="home-intro__photo">
@@ -99,21 +97,21 @@ redirect_from:
     <div class="home-entry">
       <div class="home-entry__main">
         <a href="{{ '/publication/2026-05-01-primal-spectral-generative-modeling' | relative_url }}"><strong>Primal-Spectral Generative Modeling: Fast Analytical Generation via Pseudoinverse Levy Inversion</strong></a><br>
-        Zhiyuan Ouyang. <em>ICML 2026 (CCF-A)</em>.
+        Zhiyuan Ouyang et al. <strong>(first author)</strong>. <em>ICML 2026 (CCF-A)</em>.
       </div>
       <div class="home-entry__side">2026</div>
     </div>
     <div class="home-entry">
       <div class="home-entry__main">
         <a href="https://doi.org/10.1016/j.compbiolchem.2025.108572"><strong>A Novel Network for Resolving Subjective Masking Differences and Accurate Thyroid Nodule Diagnosis</strong></a><br>
-        Zhiyuan Ouyang. <em>Computational Biology and Chemistry</em>.
+        Zhiyuan Ouyang et al. <strong>(first author)</strong>. <em>Computational Biology and Chemistry</em>.
       </div>
       <div class="home-entry__side">2025</div>
     </div>
     <div class="home-entry">
       <div class="home-entry__main">
         <a href="https://doi.org/10.1080/03610918.2023.2300362"><strong>Model Detection for Grey Forecasting Model with Polynomial Term</strong></a><br>
-        Zhiyuan Ouyang. <em>Communications in Statistics</em>.
+        Zhiyuan Ouyang et al. <strong>(first author)</strong>. <em>Communications in Statistics</em>.
       </div>
       <div class="home-entry__side">2023</div>
     </div>
