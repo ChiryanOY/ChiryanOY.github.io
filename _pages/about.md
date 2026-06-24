@@ -57,42 +57,7 @@ redirect_from:
   </section>
 
   <section class="home-section">
-    <h2 class="home-section__title">Highlights</h2>
-    <ul class="home-list">
-      <li>First-authored paper at <strong>ICML 2026</strong> on analytical generative modeling.</li>
-      <li>Hands-on experience with concurrent training and tuning on <strong>256 x H200 GPUs</strong>.</li>
-      <li>Built customized visual generation pipelines based on <strong>ComfyUI</strong> and Stable Diffusion.</li>
-      <li>Designed <strong>MimicPolymarket</strong>, an on-chain execution router for multi-wallet strategy deployment.</li>
-    </ul>
-  </section>
-
-  <section class="home-section">
-    <h2 class="home-section__title">Selected Publications</h2>
-    <div class="home-entry">
-      <div class="home-entry__main">
-        <a href="{{ '/publication/2026-05-01-primal-spectral-generative-modeling' | relative_url }}"><strong>Primal-Spectral Generative Modeling: Fast Analytical Generation via Pseudoinverse Levy Inversion</strong></a>.<br>
-        First author. Published in <em>ICML 2026 (CCF-A)</em>.
-      </div>
-      <div class="home-entry__side">2026</div>
-    </div>
-    <div class="home-entry">
-      <div class="home-entry__main">
-        <a href="https://doi.org/10.1016/j.compbiolchem.2025.108572"><strong>A Novel Network for Resolving Subjective Masking Differences and Accurate Thyroid Nodule Diagnosis</strong></a>.<br>
-        First author. Published in <em>Computational Biology and Chemistry</em>.
-      </div>
-      <div class="home-entry__side">2025</div>
-    </div>
-    <div class="home-entry">
-      <div class="home-entry__main">
-        <a href="https://doi.org/10.1080/03610918.2023.2300362"><strong>Model Detection for Grey Forecasting Model with Polynomial Term</strong></a>.<br>
-        First author. Published in <em>Communications in Statistics</em>.
-      </div>
-      <div class="home-entry__side">2023</div>
-    </div>
-  </section>
-
-  <section class="home-section">
-    <h2 class="home-section__title">Projects & Experience</h2>
+    <h2 class="home-section__title">Working Experiences</h2>
     <div class="home-entry">
       <div class="home-entry__main">
         <strong>Generative Modeling</strong><br>
@@ -113,6 +78,41 @@ redirect_from:
         Independent open-source execution router with multi-wallet routing, risk control, order aggregation, and MongoDB-backed state persistence.
       </div>
       <div class="home-entry__side">2026 - Present</div>
+    </div>
+  </section>
+
+  <section class="home-section">
+    <h2 class="home-section__title">News</h2>
+    <ul class="home-list">
+      <li>[06/2026] Open-sourced <a href="https://github.com/ChiryanOY/MimicPolymarket">MimicPolymarket</a>, an on-chain quantitative execution router for Polymarket.</li>
+      <li>[05/2026] First-authored paper <a href="https://icml.cc/virtual/2026/poster/66180">Primal-Spectral Generative Modeling</a> accepted by ICML 2026.</li>
+      <li>[03/2026] Awarded the National Scholarship for PhD Students in China.</li>
+      <li>[2025] Published first-author work on thyroid nodule diagnosis in <em>Computational Biology and Chemistry</em>.</li>
+    </ul>
+  </section>
+
+  <section class="home-section">
+    <h2 class="home-section__title">Publications</h2>
+    <div class="home-entry">
+      <div class="home-entry__main">
+        <a href="{{ '/publication/2026-05-01-primal-spectral-generative-modeling' | relative_url }}"><strong>Primal-Spectral Generative Modeling: Fast Analytical Generation via Pseudoinverse Levy Inversion</strong></a><br>
+        Zhiyuan Ouyang. <em>ICML 2026 (CCF-A)</em>.
+      </div>
+      <div class="home-entry__side">2026</div>
+    </div>
+    <div class="home-entry">
+      <div class="home-entry__main">
+        <a href="https://doi.org/10.1016/j.compbiolchem.2025.108572"><strong>A Novel Network for Resolving Subjective Masking Differences and Accurate Thyroid Nodule Diagnosis</strong></a><br>
+        Zhiyuan Ouyang. <em>Computational Biology and Chemistry</em>.
+      </div>
+      <div class="home-entry__side">2025</div>
+    </div>
+    <div class="home-entry">
+      <div class="home-entry__main">
+        <a href="https://doi.org/10.1080/03610918.2023.2300362"><strong>Model Detection for Grey Forecasting Model with Polynomial Term</strong></a><br>
+        Zhiyuan Ouyang. <em>Communications in Statistics</em>.
+      </div>
+      <div class="home-entry__side">2023</div>
     </div>
   </section>
 
