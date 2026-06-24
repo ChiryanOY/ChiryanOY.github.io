@@ -25,9 +25,9 @@ redirect_from:
         </p>
         <p>
           My doctoral training is centered on generative models, computational mathematics, and AI
-          systems. During my Ph.D., I was awarded the National Scholarship for PhD Students in China.
-          I also received a provincial first prize in a collegiate C/C++ programming contest, which
-          reflects my long-standing interest in combining mathematical rigor with practical system building.
+          systems. During my Ph.D., I was awarded the National Scholarship for PhD Students in China
+          (Top 1.5%). I also received a provincial first prize in a collegiate C/C++ programming contest,
+          which reflects my long-standing interest in combining mathematical rigor with practical system building.
         </p>
         <p>
           My research focuses on theoretical understanding, generalization, and efficient controllable
