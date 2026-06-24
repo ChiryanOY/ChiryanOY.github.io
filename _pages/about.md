@@ -77,13 +77,13 @@ redirect_from:
       </div>
       <div class="home-entry__side">2026 - Present</div>
     </div>
-    <div class="home-entry">
+    <!-- <div class="home-entry">
       <div class="home-entry__main">
         <strong>Generative Modeling</strong><br>
         Outstanding Ph.D. project on spectral generative modeling, PriSpecNet, and single-step PiLI sampling.
       </div>
       <div class="home-entry__side">2025 - 2026</div>
-    </div>
+    </div> -->
     <div class="home-entry">
       <div class="home-entry__main">
         <strong>Baizhi Xunlian Technology Co., Ltd.</strong><br>
