@@ -63,6 +63,13 @@ redirect_from:
     <h2 class="home-section__title">Working Experiences</h2>
     <div class="home-entry">
       <div class="home-entry__main">
+        <strong>MimicPolymarket</strong><br>
+        Independent open-source execution router with multi-wallet routing, risk control, order aggregation, and MongoDB-backed state persistence.
+      </div>
+      <div class="home-entry__side">2026 - Present</div>
+    </div>
+    <div class="home-entry">
+      <div class="home-entry__main">
         <strong>Generative Modeling</strong><br>
         Outstanding Ph.D. project on spectral generative modeling, PriSpecNet, and single-step PiLI sampling.
       </div>
@@ -74,13 +81,6 @@ redirect_from:
         Head of AI Department. Led controllable image generation pipelines, deployment planning, and team-level engineering standards.
       </div>
       <div class="home-entry__side">2023 - 2024</div>
-    </div>
-    <div class="home-entry">
-      <div class="home-entry__main">
-        <strong>MimicPolymarket</strong><br>
-        Independent open-source execution router with multi-wallet routing, risk control, order aggregation, and MongoDB-backed state persistence.
-      </div>
-      <div class="home-entry__side">2026 - Present</div>
     </div>
   </section>
 

@@ -1,8 +1,8 @@
 .page--landing {
   @include breakpoint($large) {
-    @include span(10 of 12 last);
-    @include prefix(0.5 of 12);
-    @include suffix(1.5 of 12);
+    @include span(11 of 12 last);
+    @include prefix(0.2 of 12);
+    @include suffix(0.8 of 12);
   }
 
   .page__meta,
@@ -12,7 +12,7 @@
 }
 
 .homepage {
-  max-width: 920px;
+  max-width: 1120px;
   margin: 0 auto;
   color: #1f1f1f;
   font-size: 1rem;
@@ -62,10 +62,9 @@
 
 .home-photo {
   width: 100%;
-  max-width: 280px;
-  aspect-ratio: 1 / 1;
-  object-fit: cover;
-  border-radius: 50%;
+  max-width: 360px;
+  height: auto;
+  border-radius: 0;
 }
 
 .home-intro__highlight {
@@ -126,7 +125,7 @@
 
 @include breakpoint($medium) {
   .home-intro__grid {
-    grid-template-columns: minmax(0, 1.9fr) minmax(220px, 280px);
+    grid-template-columns: minmax(0, 1.85fr) minmax(260px, 360px);
   }
 
   .home-entry {
