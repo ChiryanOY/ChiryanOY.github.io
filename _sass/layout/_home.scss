@@ -79,6 +79,20 @@
 
 .home-links {
   margin-top: 0.2rem;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  align-items: center;
+}
+
+.home-links a {
+  display: inline-flex;
+}
+
+.home-links img {
+  display: block;
+  height: 28px;
+  width: auto;
 }
 
 .home-section {

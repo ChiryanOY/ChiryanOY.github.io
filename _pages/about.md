@@ -17,7 +17,7 @@ redirect_from:
         <p>
           I am a second-year Ph.D. student in Computational Mathematics at
           <a href="https://math.ecnu.edu.cn/">East China Normal University</a> and
-          <a href="https://www.sii.edu.cn/">Shanghai Institute of Intelligence</a>,
+          <a href="https://www.sii.edu.cn/">Shanghai Innovation Institute</a>,
           co-supervised by
           <a href="https://math.ecnu.edu.cn/~xyzhang/">Assoc. Prof. Xiangyun Zhang</a>
           and
@@ -41,15 +41,26 @@ redirect_from:
           efficient, controllable, and deployable.
         </p>
         <p class="home-updated">[Updated in 06/2026]</p>
-        <p class="home-links">
-          <a href="{{ '/publications/' | relative_url }}">Publications</a>
-          /
-          <a href="https://github.com/ChiryanOY">Github</a>
-          /
-          <a href="https://x.com/Chiryan_OY">X</a>
-          /
-          <a href="{{ '/resume_en.pdf' | relative_url }}" download>CV</a>
-        </p>
+        <div class="home-links">
+          <a href="mailto:zhiyuanouyang@sii.edu.cn">
+            <img src="https://img.shields.io/badge/Email-zhiyuanouyang%40sii.edu.cn-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+          </a>
+          <a href="https://github.com/ChiryanOY" target="_blank" rel="noopener noreferrer">
+            <img src="https://img.shields.io/badge/GitHub-ChiryanOY-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+          </a>
+          <a href="https://chiryanoy.github.io/" target="_blank" rel="noopener noreferrer">
+            <img src="https://img.shields.io/badge/Homepage-ChiryanOY-2E91E5?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Homepage">
+          </a>
+          <a href="https://www.xiaohongshu.com/user/profile/63c9827c000000002702bf18" target="_blank" rel="noopener noreferrer">
+            <img src="https://img.shields.io/badge/Xiaohongshu-%E5%B0%8F%E7%BA%A2%E4%B9%A6-FF2442?style=for-the-badge&logoColor=white" alt="Xiaohongshu">
+          </a>
+          <a href="https://www.zhihu.com/people/sakamoto-sama" target="_blank" rel="noopener noreferrer">
+            <img src="https://img.shields.io/badge/Zhihu-0084FF?style=for-the-badge&logo=zhihu&logoColor=white" alt="Zhihu">
+          </a>
+          <a href="https://x.com/Chiryan_OY" target="_blank" rel="noopener noreferrer">
+            <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="X">
+          </a>
+        </div>
       </div>
       <div class="home-intro__photo">
         <img class="home-photo" src="{{ '/images/photo.jpg' | relative_url }}" alt="profile photo">
