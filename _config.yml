@@ -9,10 +9,10 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Adrian"
+title                    : "Zhiyuan Ouyang"
 title_separator          : "-"
-name                     : &name "Adrian"
-description              : &description "Personal website of Adrian, featuring generative modeling research, large-scale AI systems, and on-chain execution infrastructure."
+name                     : &name "Zhiyuan Ouyang"
+description              : &description "Personal website of Zhiyuan Ouyang, featuring generative modeling research, large-scale AI systems, and on-chain execution infrastructure."
 url                      : "https://chiryanoy.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ChiryanOY/ChiryanOY.github.io"
@@ -23,7 +23,7 @@ repository               : "ChiryanOY/ChiryanOY.github.io"
 author:
   # Biographic information
   avatar           : "photo.jpg"
-  name             : "Adrian"
+  name             : "Zhiyuan Ouyang"
   pronouns         : # example: "she/her"  
   bio              : "Ph.D. student at ECNU/SII working on generative models, large-scale AI systems, and Web3 execution infrastructure"
   location         : "Shanghai, China"
@@ -145,7 +145,7 @@ og_description           :  # Social media default site image description
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
   type                   : "Person"
-  name                   : "Adrian"
+  name                   : "Zhiyuan Ouyang"
   links:
     - "https://github.com/ChiryanOY"
     - "https://x.com/Chiryan_OY"
